@@ -1,0 +1,2 @@
+ALTER TABLE helo_users
+ALTER COLUMN password TYPE TEXT;
